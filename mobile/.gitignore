@@ -1,0 +1,18 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Expo
+.expo/
+web-build/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# VS Code
+.vscode/
